@@ -58,7 +58,7 @@
 </div>
 
 <div class="container">
-    <!-- Example row of columns -->
+    <!-- Example row of columnssss -->
     <div class="row">
         <div class="col-md-4">
             <h2>Heading</h2>
