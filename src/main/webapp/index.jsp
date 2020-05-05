@@ -58,7 +58,7 @@
 </div>
 
 <div class="container">
-    <!-- Example row of columnssss -->
+    <!-- Example row of cffolumnssss -->
     <div class="row">
         <div class="col-md-4">
             <h2>Heading</h2>
